@@ -1,8 +1,5 @@
 # -------------------------------------------------------------------
-# Task_8
-
 import os
-
 
 
 def work_with_phonebook():
@@ -611,7 +608,7 @@ def find_export_chosen(file_to_export, filename):
 def import_contacts(file_to_import, filename):
     '''
     Функция осуществляет импорт контактов из другого файла,
-    исходя из выбранных пользователей параметров.
+    исходя из выбранных пользователем параметров.
     '''
 
     while True:
